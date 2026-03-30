@@ -49,17 +49,17 @@ inventory-management/
 │
 ├── screenshots/
 │
+├── database/
+│   ├── schema.sql
+│   ├── functions.sql
+│   └── queries.sql
+│
 ├── dataset/
 │   ├── product.csv
 │   ├── reorders.csv
 │   ├── shipments.csv
 │   ├── stock_entries.csv
 │   └── suppliers.csv
-│
-├── database/
-│   ├── schema.sql
-│   ├── functions.sql
-│   └── queries.sql
 │
 ├── database/
 │   ├── app.py
