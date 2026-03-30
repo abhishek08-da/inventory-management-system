@@ -6,7 +6,7 @@ def connect_to_db():
     return psycopg2.connect(
         host="localhost",
         user="postgres",
-        password="ZxcvbnM012$",
+        password="YOUR_PASSWORD",
         database="inventory_management")
 
 def get_basic_info(cursor):
