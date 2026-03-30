@@ -1,4 +1,4 @@
-#🚀 Inventory Management System (Streamlit + PostgreSQL)
+🚀 Inventory Management System (Streamlit + PostgreSQL)
 
 📌 Project Overview
 
@@ -40,3 +40,22 @@ The goal of this project is to bridge the gap between database systems and non-t
 - Views for data abstraction
 - Backend + Frontend integration
 - Transaction handling
+
+-------------------------------------------------------------------------------------------
+
+## 📂 Repository Structure
+```text
+inventory-management/
+│
+├── app.py
+├── db_function.py
+├── requirements.txt
+├── README.md
+│
+├── database/
+│   ├── schema.sql
+│   ├── functions.sql
+│   ├── queries.sql
+│
+└── screenshots/
+```
