@@ -61,7 +61,7 @@ inventory-management/
 │   ├── stock_entries.csv
 │   └── suppliers.csv
 │
-├── database/
+├── python_code/
 │   ├── app.py
 │   └── db_function.py
 │
