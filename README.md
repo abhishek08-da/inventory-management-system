@@ -49,6 +49,13 @@ inventory-management/
 │
 ├── screenshots/
 │
+├── dataset/
+│   ├── product.csv
+│   ├── reorders.csv
+│   ├── shipments.csv
+│   ├── stock_entries.csv
+│   └── suppliers.csv
+│
 ├── database/
 │   ├── schema.sql
 │   ├── functions.sql
