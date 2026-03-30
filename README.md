@@ -1,6 +1,6 @@
-###🚀 Inventory Management System (Streamlit + PostgreSQL)
+### 🚀 Inventory Management System (Streamlit + PostgreSQL)
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project is a Python-driven inventory management system that allows users to interact with a database through a simple web interface without writing SQL queries.
 
@@ -8,13 +8,13 @@ I built this project while learning database concepts at my institute and extend
 
 ---------------------------------------------------------------------------------------
 
-##🎯 Objective
+## 🎯 Objective
 
 The goal of this project is to bridge the gap between database systems and non-technical users by providing an easy-to-use interface for managing inventory, suppliers, and orders.
 
 -----------------------------------------------------------------------------------------
 
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
 - Python
 - Streamlit
 - PostgreSQL
@@ -23,7 +23,7 @@ The goal of this project is to bridge the gap between database systems and non-t
 
 ------------------------------------------------------------------------------------------
 
-##🔥 Key Features
+## 🔥 Key Features
 - 📊 Dashboard with real-time business metrics
 - ➕ Add new products using stored procedures
 - 📦 Track product inventory history (sales, restock, shipment)
@@ -33,7 +33,7 @@ The goal of this project is to bridge the gap between database systems and non-t
 
 ------------------------------------------------------------------------------------------
 
-##🧠 Concepts Used
+## 🧠 Concepts Used
 - Relational Database Design
 - Joins & Aggregations
 - Stored Procedures (PL/pgSQL)
@@ -63,11 +63,14 @@ inventory-management/
 
 --------------------------------------------------------------------------------------------
 
-##📈 What I Learned
+## 📈 What I Learned
 - How to design and normalize a database
 - Writing complex SQL queries and functions
 - Connecting PostgreSQL with Python
 - Building a real-time interactive dashboard
 - Structuring a full-stack data project
 
-=============================================================================
+--------------------------------------------------------------------------------------------
+
+## 🙌 Acknowledgement
+I built this project during my learning phase of database systems and extended it by integrating a Streamlit UI to simulate real-world business applications.
