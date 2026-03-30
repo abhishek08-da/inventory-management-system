@@ -47,15 +47,16 @@ The goal of this project is to bridge the gap between database systems and non-t
 ```text
 inventory-management/
 │
-├── app.py
-├── db_function.py
-├── requirements.txt
-├── README.md
+├── screenshots/
 │
 ├── database/
 │   ├── schema.sql
 │   ├── functions.sql
-│   ├── queries.sql
+│   └── queries.sql
 │
-└── screenshots/
+├── database/
+│   ├── app.py
+│   └── db_function.py
+│
+└── README.md
 ```
