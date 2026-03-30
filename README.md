@@ -1,4 +1,4 @@
-### 🚀 Inventory Management System (Streamlit + PostgreSQL)
+# 🚀 Inventory Management System (Streamlit + PostgreSQL)
 
 ## 📌 Project Overview
 
